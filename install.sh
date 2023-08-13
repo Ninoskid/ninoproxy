@@ -14,5 +14,5 @@ fi
 wget -q https://github.com/Ninoskid/proxy/raw/main/nino
 sleep 1
 echo -e "${GREEN}Proxy Installed${ENDCOLOR}"
-echo -e "${GREEN}Execute proxy with this command: ./nino{ENDCOLOR}"
+echo -e "${GREEN}Execute proxy with this command: ./nino${ENDCOLOR}"
 chmod +x nino
